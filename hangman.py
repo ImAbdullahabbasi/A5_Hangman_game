@@ -1,4 +1,4 @@
-#Project 8: Hangman Game
+#Project 5: Hangman Game
 
 import random
 words = ['doctor', 'python', 'code', 'ai', 'abdullah']
